@@ -14,6 +14,9 @@ In this project, you’ll use AWS Sagemaker to build an image classification mod
 # Project Steps Overview
 
 Step 1: Data staging
+
 Step 2: Model training and deployment
+
 Step 3: Lambdas and step function workflow
+
 Step 4: Testing and evaluation
